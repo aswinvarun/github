@@ -1,0 +1,3 @@
+created by aswin by the vs code and i i have transferred to the copy host by the    git add text2.txt  nowthe files moves to the starting area  
+now i wat to move the file to loal host by the git commit -m "text.txt file added"
+now i want push the file to the github repo by  git push origin (means that link it will gothe github)    
